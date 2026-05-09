@@ -1,0 +1,4 @@
+FAILED test_create_invoice_v2_payload - KeyError: 'id'
+FAILED test_empty_invoice_lines - expected 0.00 but received None
+PASSED test_legacy_customer_id_payload
+
